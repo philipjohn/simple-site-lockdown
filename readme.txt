@@ -1,9 +1,8 @@
 === Simple Site Lockdown ===
 Contributors: philipjohn
-Donate link: http://example.com/
-Tags: comments, spam
+Tags: privacy, block, blocking, maintenance
 Requires at least: 2.0.0
-Tested up to: 3.5.1
+Tested up to: 3.8-RC1
 Stable tag: trunk
 License: WTFPL
 License URI: http://www.wtfpl.net
