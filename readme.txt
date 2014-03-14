@@ -2,7 +2,7 @@
 Contributors: philipjohn
 Tags: privacy, block, blocking, maintenance
 Requires at least: 2.0.0
-Tested up to: 3.8
+Tested up to: 3.9
 Stable tag: trunk
 License: WTFPL
 License URI: http://www.wtfpl.net
